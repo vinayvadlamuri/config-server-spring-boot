@@ -9,4 +9,4 @@ my:
 
 rest:
   endpoint:
-    url: 'http://resrtapi url'
+    url: http://resrtapi url
