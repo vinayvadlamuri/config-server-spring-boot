@@ -1,6 +1,6 @@
 my:    
   greeting:
-    message:  helloworld from config server
+    message:  helloworld from config server2
 
 rest:
   endpoint:
