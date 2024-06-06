@@ -6,3 +6,7 @@ spring:
     name: config-repo  
 my:    
   greeting: helloworld from config server
+
+rest:
+  endpoint:
+    url: 'http://resrtapi url'
